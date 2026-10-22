@@ -24,14 +24,14 @@ außerhalb des App Stores normal. Einmalig freigeben:
 
 ## Beim ersten Start
 
-Sung fragt nach zwei Freigaben, beide sind nötig:
-
-- **Mikrofon** – damit Sung dich hört.
-- **Bedienungshilfen** – damit Sung die fn-Taste bemerkt und den Text einfügen kann.
-  In der Liste den Schalter bei Sung einschalten.
-
-Danach lädt Sung einmalig das Sprachmodell (etwa 550 MB). Das dauert je nach Internet
-ein paar Minuten.
+1. **Bedienungshilfen** – macOS fragt gleich beim Start. Auf „Systemeinstellungen öffnen“
+   klicken und in der Liste den Schalter bei Sung einschalten. Damit bemerkt Sung die
+   fn-Taste und kann den Text einfügen.
+2. **Sprachmodell laden** – auf der Startseite von Sung steht „Noch ein Schritt“. Auf
+   **Einrichten** klicken und beim ersten Modell (Turbo) auf **Laden**. Einmalig etwa
+   550 MB, das dauert je nach Internet ein paar Minuten.
+3. **Mikrofon** – beim ersten Diktieren fragt macOS, ob Sung das Mikrofon benutzen darf.
+   Erlauben.
 
 ## Benutzen
 
